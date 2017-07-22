@@ -1,2 +1,4 @@
 # EWSDS2
 Early Warning Simulated IoT System for Landslides
+
+One of the effects due to global warming is the prolonged winter that produce landslides on the roads of different countries around the world; in Ecuador, this type of events usually happens because of its own weather and geography, reason why an early detection system for recognizing landslides is necessary. This investigation proposed a simulated system in Cisco Packet Tracer 7.0 that is able to recognize anomalies in the pathways through loT modules. Alternatives are presented about its implementation, like the use of M2M (Machine to Machine) protocols such as Message Queue Telemetry Transport (MQTT) over a Wireless network. The system aims to prevent consequences such as economic losses or even the loss of human lives caused by landslides on transit pathways.
